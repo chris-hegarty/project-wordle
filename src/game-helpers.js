@@ -1,5 +1,5 @@
 /**
- * Thanks to Github user dylano for supplying a more-accurate
+ * Thanks to GitHub user dylano for supplying a more-accurate
  * solving algorithm!
  */
 

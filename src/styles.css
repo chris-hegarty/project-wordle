@@ -230,3 +230,14 @@ h1 {
     transform: translateY(0%);
   }
 }
+
+.game-board {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.game-board .row {
+  display: flex;
+  gap: 10px;
+}
